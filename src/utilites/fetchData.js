@@ -2,7 +2,7 @@
  
      method: 'GET',
      headers: {
-       'x-rapidapi-key': 'd2b107b0ebmsh760a445de385e50p1a8b63jsn781b335cac5d',
+       'x-rapidapi-key': '703b69711dmshbbfed8b19c4290ap197d17jsnd3ede6fd641a',
        'x-rapidapi-host': 'exercisedb.p.rapidapi.com'
      }
    };
